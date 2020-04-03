@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.e712fb18.chunk.css",
-    "main.js": "/static/js/main.7ca5ca47.chunk.js",
-    "main.js.map": "/static/js/main.7ca5ca47.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.65abbbf7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.65abbbf7.js.map",
-    "static/js/2.cb7498ce.chunk.js": "/static/js/2.cb7498ce.chunk.js",
-    "static/js/2.cb7498ce.chunk.js.map": "/static/js/2.cb7498ce.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f2c2e0bf6ff16e96aa5deaad97a52465.js": "/precache-manifest.f2c2e0bf6ff16e96aa5deaad97a52465.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.e712fb18.chunk.css.map": "/static/css/main.e712fb18.chunk.css.map",
-    "static/js/2.cb7498ce.chunk.js.LICENSE.txt": "/static/js/2.cb7498ce.chunk.js.LICENSE.txt",
-    "static/media/default.png": "/static/media/default.5631035c.png"
+    "main.css": "/referpal-frontend/static/css/main.e712fb18.chunk.css",
+    "main.js": "/referpal-frontend/static/js/main.e931bc41.chunk.js",
+    "main.js.map": "/referpal-frontend/static/js/main.e931bc41.chunk.js.map",
+    "runtime-main.js": "/referpal-frontend/static/js/runtime-main.d3979ad6.js",
+    "runtime-main.js.map": "/referpal-frontend/static/js/runtime-main.d3979ad6.js.map",
+    "static/js/2.cb7498ce.chunk.js": "/referpal-frontend/static/js/2.cb7498ce.chunk.js",
+    "static/js/2.cb7498ce.chunk.js.map": "/referpal-frontend/static/js/2.cb7498ce.chunk.js.map",
+    "index.html": "/referpal-frontend/index.html",
+    "precache-manifest.0a44298e974ee9f572c9b506bb5cd1b6.js": "/referpal-frontend/precache-manifest.0a44298e974ee9f572c9b506bb5cd1b6.js",
+    "service-worker.js": "/referpal-frontend/service-worker.js",
+    "static/css/main.e712fb18.chunk.css.map": "/referpal-frontend/static/css/main.e712fb18.chunk.css.map",
+    "static/js/2.cb7498ce.chunk.js.LICENSE.txt": "/referpal-frontend/static/js/2.cb7498ce.chunk.js.LICENSE.txt",
+    "static/media/default.png": "/referpal-frontend/static/media/default.5631035c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.65abbbf7.js",
+    "static/js/runtime-main.d3979ad6.js",
     "static/js/2.cb7498ce.chunk.js",
     "static/css/main.e712fb18.chunk.css",
-    "static/js/main.7ca5ca47.chunk.js"
+    "static/js/main.e931bc41.chunk.js"
   ]
 }
